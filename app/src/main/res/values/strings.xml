@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CAD software</string>
+    <string name="btn_calculate_txt">Calculate</string>
+    <string name="incidence_matrix_input_hint">Incidence matrix</string>
+    <string name="current_matrix_hint_txt">current matrix</string>
+    <string name="impidence_matrix_hint_txt">impidence matrix</string>
+    <string name="voltage_matrix_hint_txt">voltage matrix</string>
+    <string name="btn_reset_txt">reset</string>
+</resources>
